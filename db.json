@@ -1,8 +1,31 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "sbu": [
+        {
+            "NRBU": "1673",
+            "NAMA_BU": "PASSOKORANG",
+            "ID_BENTUK_BU": "1",
+            "BENTUK_BU": "Badan Usaha Nasional",
+            "ID_BENTUK_USAHA": "1",
+            "BENTUK_USAHA": "PT",
+            "ID_JENIS_BU_KBLI": "0",
+            "JENIS_BU": "Pelaksana",
+            "ID_PROPINSI": "20",
+            "PROPINSI": "Sulawesi Selatan",
+            "ID_KABUPATEN": "7371",
+            "KABUPATEN": "Kota Makassar",
+            "ID_BU": "1314845",
+            "SBU_ID_BU": "1314845",
+            "SBU_ID_SUB_KLASIFIKASI": "SI003",
+            "SBU_DESKRIPSI_SUB_KLASIFIKASI": "Jasa Pelaksana Untuk Konstruksi Jalan Raya (kecuali Jalan layang), jalan, rel kereta api, dan landas pacu bandara",
+            "SBU_KUALIFIKASI": "B1",
+            "SBU_ID_ASOSIASI": "9",
+            "SBU_NAMA_ASOSIASI_BU": "AABI",
+            "SBU_NAMA_LENGKAP_ASOSIASI_BU": "Asosiasi Aspal Beton Indonesia",
+            "SBU_ID_PROPINSI_REG": "20",
+            "SBU_PROP_REG": "Sulawesi Selatan",
+            "SBU_TGL_PERMOHONAN": "12/18/17",
+            "SBU_TGL_HABIS": "1/4/21"
+        }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
